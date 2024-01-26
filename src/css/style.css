@@ -1,0 +1,15 @@
+/* line 64, ../../Documents/project/test-Project/src/sass/style.sass */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 112, ../../Documents/project/test-Project/src/sass/style.sass */
+.box {
+  background-color: red;
+  border: 2px solid black;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
